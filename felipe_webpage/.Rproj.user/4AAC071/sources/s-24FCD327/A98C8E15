@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1561767676640.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A98C8E15",
+    "lastKnownWriteTime" : 1561770318,
+    "last_content_update" : 1561770318360,
+    "path" : "D:/Github/Felipe_website/felipe_webpage/config/_default/params.toml",
+    "project_path" : "config/_default/params.toml",
+    "properties" : {
+        "cursorPosition" : "11,12",
+        "scrollLine" : "0",
+        "source_window_id" : "wr0ze33a6a3ek"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
