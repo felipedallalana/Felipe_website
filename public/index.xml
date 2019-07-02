@@ -117,22 +117,6 @@
     </item>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Display Jupyter Notebooks with Academic</title>
       <link>/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
@@ -378,6 +362,24 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>First Report of Tar Spot of Maize (Zea mays), Caused by Phyllachora maydis, in Ohio.</title>
+      <link>/publication/pd2018_pre_post_anthesis/</link>
+      <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/pd2018_pre_post_anthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meta-Analysis of the Effects of QoI and DMI Fungicide Combinations on Fusarium Head Blight and Deoxynivalenol in Wheat</title>
+      <link>/publication/pd2018_qoi_and_dmi_wheat/</link>
+      <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/pd2018_qoi_and_dmi_wheat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Privacy Policy</title>
       <link>/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
@@ -388,11 +390,20 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Evaluating the Profitability of Foliar Fungicide Programs in Mid-Atlantic Soft-Red Winter Wheat Production</title>
+      <title>Efficacy, profitability, and probability of disease reach flag leave on 13 fungicides treatments and ten trial.</title>
       <link>/publication/pd2018_wheat_atlant/</link>
-      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/publication/pd2018_wheat_atlant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficacy, profitability, and probability of disease reach flag leave on 13 fungicides treatments and ten trial.</title>
+      <link>/publication/pd2019_tar_spot_first_report/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/pd2019_tar_spot_first_report/</guid>
       <description></description>
     </item>
     
@@ -707,28 +718,6 @@ Figure 1: A fancy pie chart.
       
       <guid>/publication/phyto2015/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
   </channel>

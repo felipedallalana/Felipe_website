@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DON on Felipe Dalla Lana</title>
+    <link>/tags/don/</link>
+    <description>Recent content in DON on Felipe Dalla Lana</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/don/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Report of Tar Spot of Maize (Zea mays), Caused by Phyllachora maydis, in Ohio.</title>
+      <link>/publication/pd2018_pre_post_anthesis/</link>
+      <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/pd2018_pre_post_anthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meta-Analysis of the Effects of QoI and DMI Fungicide Combinations on Fusarium Head Blight and Deoxynivalenol in Wheat</title>
+      <link>/publication/pd2018_qoi_and_dmi_wheat/</link>
+      <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/pd2018_qoi_and_dmi_wheat/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

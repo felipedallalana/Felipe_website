@@ -10,7 +10,7 @@ authors:
 
 date: "2015-02-17"
 doi: "10.1094/PHYTO-06-14-0157-R"
-featured: true
+featured: false
 image:
   caption: 'Image credit: Dirceu Gassen'
   focal_point: ""
