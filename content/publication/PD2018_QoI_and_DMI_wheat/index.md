@@ -18,7 +18,7 @@ authors:
 
 date: "2018-10-08"
 doi: "10.1094/PDIS-02-18-0211-RE"
-featured: true
+featured: false
 image:
   caption: 'Image credit: Felipe Dalla Lana'
   focal_point: ""

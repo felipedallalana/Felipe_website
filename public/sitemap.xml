@@ -57,12 +57,82 @@
   
   <url>
     <loc>/authors/admin/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/pd2019_strawberry/</loc>
+    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/leandro-gabriel-cordova/</loc>
+    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/meta-analysis/</loc>
+    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/natalia-a.-peres/</loc>
+    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/osu/</loc>
+    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/pierce.-a.-paul/</loc>
+    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/profitability/</loc>
+    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/strawberry/</loc>
+    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ufl/</loc>
+    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -80,12 +150,6 @@
   <url>
     <loc>/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -154,19 +218,7 @@
   </url>
   
   <url>
-    <loc>/tags/meta-analysis/</loc>
-    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/mycotoxin/</loc>
-    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/osu/</loc>
     <lastmod>2018-10-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -175,23 +227,6 @@
     <loc>/authors/paul.-d.-esker/</loc>
     <lastmod>2018-10-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/pierce.-a.-paul/</loc>
-    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -521,7 +556,70 @@
   </url>
   
   <url>
+    <loc>/tags/aplication-tecnology/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/courses/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/daniel-debona/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/diego-dalla-favera/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/rbeaa2012_drop_deposition/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/gerson-dalla-corte/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/juliano-d.-uebel/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/monica-p.-debortoli/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/nedio-rodrigo-tormen/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/ricardo-silveiro-balardin/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/seed-treatment/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/cr211_see_treatment/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/ufsm/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/undergrad/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>

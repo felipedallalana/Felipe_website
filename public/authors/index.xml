@@ -6,7 +6,7 @@
     <description>Recent content in Authors on Felipe Dalla Lana</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;I am a Ph.D. candidate at the Department of Plant Pathology of the Ohio State University (OSU). My doctorate research is focused on the epidemiology study of Gibberella ear rot (&lt;em&gt;Fusarium gramearum&lt;/em&gt;), a disease that cause yield and grain quality reduction, and mycotoxin contamination on maize (&lt;em&gt;Zea mays&lt;/em&gt;). Under the mentorship of professor Paul, and co-advisor by professor Madden, we are studying the weather factors associated with this disease and mycotoxin contamination, hybrid stability, developing a risk assessment, chemical control, and more. On parallel of my Ph.D. research, I work with quantitative reviews, using meta-analytic models to summarise multiples studies. Other activities include presenting workshops on statistic methods and software use (as R or SAS), and leadership positions at American Phytopathology Society (APS) and Plant Pathology Graduat Student Association (PPGSA) of OSU.&lt;/p&gt;
@@ -23,6 +23,33 @@
 
 &lt;p&gt;My current &lt;em&gt;curriculum vitae&lt;/em&gt; can be download &lt;a href=&#34;/files/CV_July19.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Leandro Gabriel Cordova</title>
+      <link>/authors/leandro-gabriel-cordova/</link>
+      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/leandro-gabriel-cordova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natalia A. Peres</title>
+      <link>/authors/natalia-a.-peres/</link>
+      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/natalia-a.-peres/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pierce. A. Paul</title>
+      <link>/authors/pierce.-a.-paul/</link>
+      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/pierce.-a.-paul/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -103,15 +130,6 @@
       <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>/authors/paul.-d.-esker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pierce. A. Paul</title>
-      <link>/authors/pierce.-a.-paul/</link>
-      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/pierce.-a.-paul/</guid>
       <description></description>
     </item>
     
@@ -409,6 +427,69 @@
       <pubDate>Tue, 17 Feb 2015 00:00:00 +0000</pubDate>
       
       <guid>/authors/patricia-k.-ziegelmann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Debona</title>
+      <link>/authors/daniel-debona/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/daniel-debona/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diego Dalla Favera</title>
+      <link>/authors/diego-dalla-favera/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/diego-dalla-favera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gerson Dalla Corte</title>
+      <link>/authors/gerson-dalla-corte/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/gerson-dalla-corte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juliano D. Uebel</title>
+      <link>/authors/juliano-d.-uebel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/juliano-d.-uebel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mônica P. Debortoli</title>
+      <link>/authors/monica-p.-debortoli/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/monica-p.-debortoli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nédio Rodrigo Tormen</title>
+      <link>/authors/nedio-rodrigo-tormen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/nedio-rodrigo-tormen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ricardo Silveiro Balardin</title>
+      <link>/authors/ricardo-silveiro-balardin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/ricardo-silveiro-balardin/</guid>
       <description></description>
     </item>
     
