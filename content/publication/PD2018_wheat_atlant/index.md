@@ -23,14 +23,14 @@ publication_types:
 - "2"
 publishDate: ""
 slides: 
-summary: Evaluating the Profitability of Foliar Fungicide Programs in Mid-Atlantic Soft-Red Winter Wheat Production
+summary: Efficacy, profitability, and probability of disease reach flag leave on 13 fungicides treatments and ten trial.
 tags:
 - Wheat
 - Meta-analysis
 - OSU
 - Field crops
 
-title: Efficacy, profitability, and probability of disease reach flag leave on 13 fungicides treatments and ten trial.
+title: Evaluating the Profitability of Foliar Fungicide Programs in Mid-Atlantic Soft-Red Winter Wheat Production
 url_code: ""
 url_dataset: ""
 url_pdf: /files/20118_PDIS_wheat_Mid_Atlantic.pdf
