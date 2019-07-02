@@ -1,0 +1,53 @@
+---
+abstract: Anthesis is generally recommended as the optimum growth stage for applying a foliar fungicide to manage Fusarium head blight (FHB) and the Fusarium_associated toxin deoxynivalenol (DON) in wheat. However, because it is not always possible to treat fields at anthesis, studies were conducted to evaluate pre and postanthesis treatment options for managing FHB and DON in spring and winter wheat. Network meta_analytical models were fitted to data from 19 years of fungicide trials, and log response ratio (L) and approximate percent control (C) relative to a nontreated check were estimated as measures of the effects of six treatments on FHB index (IND= mean percentage of diseased spikelets per spike) and DON. The evaluated treatments consisted of either Caramba (metconazole) applied early (at heading [CE]), at anthesis (CA), or late (5 to 7 days after anthesis; CL), or Prosaro (prothioconazole + tebuconazole) applied at the same three times and referred to as PE, PA, and PL, respectively. All treatments reduced mean IND and DON relative to the nontreated check, but the magnitude of the effect varied with timing and wheat type. CA and PA resulted in the highest C values for IND, 52.2 and 51.5%, respectively, compared with 45.9% for CL, 41.3% for PL, and less than 33% for CE and PE. Anthesis and postanthesis treatments reduced mean IND by 14.9 to 29.7% relative to preanthesis treatments. The estimated effect size was also statistically significant for comparisons between CA and CL and PA and PL; CA reduced IND by 11.7% relative to CL, whereas PA reduced the disease by 17.4% relative to PL. Differences in efficacy against IND between pairs of prothioconazole + tebuconazole and metconazole treatments applied at the same timing (CE versus PE, CA versus PA, and CL versus PL) were not statistically significant. However, CA and CL outperformed PA and PL by 7 and 12.8%, respectively, in terms of efficacy against DON. All application programs had comparable efficacy against IND between spring and winter wheat types, but efficacy against DON was 10 to 16% greater for spring than winter wheat for applications made at or after anthesis. All programs led to an increase in mean grain yield and test weight relative to the nontreated check
+authors:
+- Pierce. A. Paul
+- Carl A. Bradley
+- Laurence V. Madden
+- admin
+- Garry. C. Bergstrom
+- Ruth Dill-Macky
+- Paul. D. Esker
+- Kiersten A. Wise
+- Marcia McMullen
+- Arvydas Grybauskas
+- William W. Kirk
+- Eugene Milus
+- Kay Ruden
+
+
+date: "2018-10-25"
+doi: "10.1094/PDIS-03-18-0466-RE"
+featured: false
+image:
+  caption: 'Image credit: Felipe Dalla Lana'
+  focal_point: ""
+  preview_only: false
+projects: []
+publication: '*Plant Disease, 102*(12)'
+publication_short: ""
+publication_types:
+- "2"
+publishDate: "2018-10-25"
+slides: 
+summary: ""
+tags:
+- Wheat
+- Meta-analysis
+- OSU
+- Field crops
+- Mycotoxin
+- DON
+
+
+title: Effects of Pre- and Postanthesis Applications of Demethylation Inhibitor Fungicides on Fusarium Head Blight and Deoxynivalenol in Spring and Winter Wheat.
+url_code: ""
+url_dataset: ""
+url_pdf: /files/2018_PDIS_pre_and_pos_anthesis.pdf
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: ""
+url_video: ""
+---
+
