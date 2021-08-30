@@ -1,19 +1,19 @@
 ---
 authors:
 - admin
-bio: My research interests include plant disease epidemiology, clop lost assessment, integrate pest management, and meta-analysis.
+bio: My research interests include plant disease epidemiology, crop lost assessment, integrate pest management, and meta-analysis.
 education:
   courses:
   - course: Ph.D. in Plant Pathology
     institution: The Ohio State University
     year: 2020
-  - course: Master in Plant Pathology
+  - course: Master in Crop Sciences/Phytopathology
     institution: The Ohio State University
     year: 2018
   - course: Master in Agronomy
     institution: Federal University of Rio Grande do Sul - Brazil
     year: 2013
-  - course: BSc in Agronomy
+  - course: B.S. in Agronomy
     institution: Federal University of Santa Maria - Brazil
     year: 2011
 email: "felipedallalana@gmail.com"
@@ -54,8 +54,7 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoctoral scholar at the Department of Plant Pathology and Environmental Microbiology of The Pennsylvania State University (PSU). My doctorate research is focused on the epidemiology study of Gibberella ear rot (*Fusarium gramearum*), a disease that cause yield and grain quality reduction, and mycotoxin contamination on maize (*Zea mays*). Under the mentorship of professor Paul, and co-advisor by professor Madden, we are studying the weather factors associated with this disease and mycotoxin contamination, hybrid stability, developing a risk assessment, chemical control, and more. On parallel of my Ph.D. research, I work with quantitative reviews, using meta-analytic models to summarise multiples studies. Otzher activities include presenting workshops on statistic methods and software use (as R or SAS), and leadership positions at American Phytopathology Society (APS) and Plant Pathology Graduat Student Association (PPGSA) of OSU.
+I am a plant pathologist and epidemiologist with experience using data analysis to improve our understanding of disease epidemiology and disease management. I am currently working as a postdoctoral scholar at the Department of Plant Pathology and Environmental Microbiology of The Pennsylvania State University (PSU). I work in the laboratory of Dr. Paul D. Esker, collaborating closely with professors from other institutions, focus on the development of decision support tools for growers and agriculture agents. These tools will consider the risk and impact of multiple diseases occur, the efficacy of control methods, and the profitability that different production scenarios will provide a return on investment.
 
-Before joining the Plant Pathology program of OSU, I earn my agronomy master degree under mentorship of professor Del Ponte, at the Federal University of Rio Grande do Sul, studying Soybean Rust. During my undergrad course, I also work on several plant pathology projects on field crops, under supervision of professor Balardin.
+I have a Ph.D. and M.Sc. degree in Plant Pathology from The Ohio State University, where I work with Dr. Pierce A. Paul and Dr. Laurence V. Madden on the development of risk assessment models for Gibberella ear rot (*Fusarium gramearum*), a disease that causes yield and grain quality reduction, and mycotoxin contamination on maize (*Zea mays*). I also have an M.Sc. in Crop Sciences/Phytopathology, working on soybean rust (*Phakopsora pachyrhizi*), and B.S. in Agronomy. My research was published on several papers in peer-review journals, most on Phytopathology and Plant Disease. I have experience in teaching and extension. For more details, check my current **curriculum vitae** [here](/files/FelipeDallaLana_CV_Ago_2021.pdf).
 
-My current *curriculum vitae* can be download [here](/files/FelipeDallaLana_CV_Ago_2021.pdf).
