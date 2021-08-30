@@ -26,9 +26,9 @@ interests:
 
 name: Felipe Dalla Lana
 organizations:
-- name: The Ohio State University
-  url: ""
-role: Ph.D. candidate
+- name: The Pennsylvania State University
+  url: "https://plantpath.psu.edu/directory/fxd5113"
+role: Postdoctoral Scholar
 social:
 - icon: envelope
   icon_pack: fas
