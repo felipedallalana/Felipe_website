@@ -29,6 +29,9 @@
     <loc>/authors/</loc>
     <lastmod>2021-05-19T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tags/corn/</loc>
+    <lastmod>2021-05-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/disease-models/</loc>
     <lastmod>2021-05-19T00:00:00+00:00</lastmod>
   </url><url>
@@ -77,10 +80,88 @@
     <loc>/publication/2020-phyto-ger-stability/</loc>
     <lastmod>2020-11-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/alison-e.-robertson/</loc>
-    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
+    <loc>/authors/a.-g.-mccoy/</loc>
+    <lastmod>2020-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/corn/</loc>
+    <loc>/authors/a.-p.-cruz/</loc>
+    <lastmod>2020-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/a.-robertson/</loc>
+    <lastmod>2020-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/c.-d.-cruz/</loc>
+    <lastmod>2020-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/c.-gongora-canul/</loc>
+    <lastmod>2020-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/c.-groves/</loc>
+    <lastmod>2020-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/c.-puerto/</loc>
+    <lastmod>2020-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/c.-schloemer/</loc>
+    <lastmod>2020-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/d.-e.-p.-telenko/</loc>
+    <lastmod>2020-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/d.-l.-smith/</loc>
+    <lastmod>2020-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/d.-malvick/</loc>
+    <lastmod>2020-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/d.-plewa/</loc>
+    <lastmod>2020-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/d.-s.-mueller/</loc>
+    <lastmod>2020-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/e.-m.-roggenkamp/</loc>
+    <lastmod>2020-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/j.-check/</loc>
+    <lastmod>2020-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/j.-valle-torres/</loc>
+    <lastmod>2020-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/l.-henriquez-dole/</loc>
+    <lastmod>2020-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/m.-c.-avellaneda/</loc>
+    <lastmod>2020-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/m.-i.-chilvers/</loc>
+    <lastmod>2020-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/n.-kleczewski/</loc>
+    <lastmod>2020-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/p.-a.-paul/</loc>
+    <lastmod>2020-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/r.-n.-raid/</loc>
+    <lastmod>2020-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/s.-lipps/</loc>
+    <lastmod>2020-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/t.-j.-ross/</loc>
+    <lastmod>2020-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/t.-jamann/</loc>
+    <lastmod>2020-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/tar-spot/</loc>
+    <lastmod>2020-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2020-pd-tars-spot-feature/</loc>
+    <lastmod>2020-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/alison-e.-robertson/</loc>
     <lastmod>2020-06-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/damon-l.-smith/</loc>
@@ -123,9 +204,6 @@
     <lastmod>2020-06-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/richard-n.-raid/</loc>
-    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/tar-spot/</loc>
     <lastmod>2020-06-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/2019-pd-strawberry/</loc>
@@ -216,9 +294,6 @@
     <lastmod>2018-10-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/2019-pd-tars-spot-first-report/</loc>
-    <lastmod>2018-10-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/2020-pd-tars-spot-feature/</loc>
     <lastmod>2018-10-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/2018-pd-qoi-and-dmi-wheat/</loc>
