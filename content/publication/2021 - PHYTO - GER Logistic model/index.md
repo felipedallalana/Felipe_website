@@ -1,0 +1,44 @@
+---
+abstract: Models were developed to quantify the risk of deoxynivalenol (DON; ppm) contamination of maize grain based on weather, cultural practices, hybrid resistance, or Gibberella ear rot (GER) intensity. Data on natural DON contamination of 15-16 hybrids and weather were collected from 10 Ohio locations over four years. Logistic regression with 10-fold cross-validation was used to develop models to predict the risk of DON ≥ 1 ppm. The presence and severity of GER predicted DON risk with an accuracy of 0.81 and 0.87, respectively. Temperature, relative humidity, surface wetness, and rainfall were used to generate 37 weather-based predictor variables summarized over each of six 15-day windows relative to maize silking (R1). With these variables, LASSO followed by all-subsets variable selection, and logistic regression with 10-fold cross-validation were used to build single-window weather-based models, from which 11 with one or two predictors were selected based on performance metrics and simplicity. LASSO-logistic regression was also used to build more complex multi-window models with up to 22 predictors. The performance of the best single-window models was comparable to that of the best multi-window models, with accuracy ranging from 0.81 to 0.83 for the former and 0.83 to 0.87 for the latter group of models. These results indicated that the risk of DON ≥ 1 ppm can be accurately predicted with relatively simple models built using temperature- and moisture-based predictors from a single window. These models will serve as the foundation for developing tools to predict the risk of DON contamination of maize grain.
+authors:
+- admin
+- Laurence V Madden
+- Pierce A. Paul
+
+
+
+date: "2021-05-19"
+doi: "10.1094/PHYTO-03-21-0104-R"
+featured: true
+image:
+  caption: 'Image credit: Felipe Dalla Lana'
+  focal_point: ""
+  preview_only: false
+projects: []
+publication: '*Phytopathology, XXX*(X)'
+publication_short: ""
+publication_types:
+- "2"
+publishDate: "2017-01-01T00:00:00Z"
+slides: 
+summary:
+tags:
+- Gibberella ear rot
+- Disease models
+- OSU
+- Field crops
+- Mycotoxin
+- PhD
+
+title:  Logistic models derived using LASSO methods for quantifying the risk of natural contamination of maize grain with deoxynivalenol
+url_code: ""
+url_dataset: ""
+url_pdf: https://apsjournals.apsnet.org/doi/pdfplus/10.1094/PHYTO-03-21-0104-R
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: ""
+url_video: ""
+---
+
+

@@ -52,7 +52,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "felipedallalana@gmail.com"
 phone = "330 461 6634"
-address ="119 Selby Hall, Department of Plant Pathology, The Ohio State University, 1680 Madison Ave., Wooster, OH 44691"
+address ="Department of Plant Pathology and Environment Microbiology, 211 Buckhout Lab, University Park, PA 16802"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 #office_hours = """Monday 10:00 to 13:00<br>
@@ -83,11 +83,11 @@ contact_links = [
 #   1: Google Maps
 #   2: OpenStreetMap (Mapnik)
 #   3: OpenStreetMap (Mapbox)
-map = 0
+map = 1
 map_api_key = ""
-latitude = "37.4275"
-longitude = "-122.1697"
-zoom = 15
+latitude = "40.79968592013432"
+longitude = "-77.86300744930016"
+zoom = 10
 
 ############################
 ## Plugins                ##

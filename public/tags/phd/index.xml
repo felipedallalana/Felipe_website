@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PhD on Felipe Dalla Lana</title>
+    <link>/tags/phd/</link>
+    <description>Recent content in PhD on Felipe Dalla Lana</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 May 2021 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/phd/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Logistic models derived using LASSO methods for quantifying the risk of natural contamination of maize grain with deoxynivalenol</title>
+      <link>/publication/2021-phyto-ger-logistic-model/</link>
+      <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2021-phyto-ger-logistic-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natural occurrence of maize Gibberella ear rot and contamination of grain with mycotoxins in association with weather variables</title>
+      <link>/publication/2021-pd-window-pane/</link>
+      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2021-pd-window-pane/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stability of hybrid maize reaction to Gibberella ear rot and deoxynivalenol contamination of grain</title>
+      <link>/publication/2020-phyto-ger-stability/</link>
+      <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2020-phyto-ger-stability/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,578 +1,369 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/admin/</loc>
-    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-05-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/publication_types/2/</loc>
-    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/pd2019_strawberry/</loc>
-    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-05-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/authors/</loc>
+    <lastmod>2021-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/disease-models/</loc>
+    <lastmod>2021-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/field-crops/</loc>
+    <lastmod>2021-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/gibberella-ear-rot/</loc>
+    <lastmod>2021-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/laurence-v-madden/</loc>
+    <lastmod>2021-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2021-phyto-ger-logistic-model/</loc>
+    <lastmod>2021-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/mycotoxin/</loc>
+    <lastmod>2021-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/osu/</loc>
+    <lastmod>2021-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/phd/</loc>
+    <lastmod>2021-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/pierce-a.-paul/</loc>
+    <lastmod>2021-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2021-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2021-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2021-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2021-pd-window-pane/</loc>
+    <lastmod>2020-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/peter-thomison/</loc>
+    <lastmod>2020-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/richard-minyo/</loc>
+    <lastmod>2020-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2020-phyto-ger-stability/</loc>
+    <lastmod>2020-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/alison-e.-robertson/</loc>
+    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/corn/</loc>
+    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/damon-l.-smith/</loc>
+    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/darcy-e.-p.-telenko/</loc>
+    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/daren-s.-mueller/</loc>
+    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/dean-k.-malvick/</loc>
+    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/diane-e.-plewa/</loc>
+    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2020-jipm-spread-and-severity-tar-spot/</loc>
+    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/gail-e.-ruhl/</loc>
+    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/jan-m.-byrne/</loc>
+    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/joseph-laforest/</loc>
+    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/kaitlyn-m.-bissonnette/</loc>
+    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/martin-i.-chilvers/</loc>
+    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/nathan-m.-kleczewski/</loc>
+    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/norman-d.-bowman/</loc>
+    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/richard-n.-raid/</loc>
+    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/tar-spot/</loc>
+    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2019-pd-strawberry/</loc>
     <lastmod>2019-05-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/leandro-gabriel-cordova/</loc>
     <lastmod>2019-05-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/meta-analysis/</loc>
     <lastmod>2019-05-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/natalia-a.-peres/</loc>
     <lastmod>2019-05-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/osu/</loc>
-    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/pierce.-a.-paul/</loc>
     <lastmod>2019-05-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/profitability/</loc>
     <lastmod>2019-05-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/strawberry/</loc>
     <lastmod>2019-05-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/ufl/</loc>
     <lastmod>2019-05-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/courses/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url><url>
     <loc>/post/jupyter/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/arvydas-grybauskas/</loc>
     <lastmod>2018-10-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/carl-a.-bradley/</loc>
     <lastmod>2018-10-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/don/</loc>
     <lastmod>2018-10-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/pd2018_pre_post_anthesis/</loc>
+  </url><url>
+    <loc>/publication/2018-pd-pre-and-post-anthesis/</loc>
     <lastmod>2018-10-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/eugene-milus/</loc>
     <lastmod>2018-10-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/field-crops/</loc>
-    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/garry.-c.-bergstrom/</loc>
     <lastmod>2018-10-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/kay-ruden/</loc>
     <lastmod>2018-10-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/kiersten-a.-wise/</loc>
     <lastmod>2018-10-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/laurence-v.-madden/</loc>
     <lastmod>2018-10-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/marcia-mcmullen/</loc>
     <lastmod>2018-10-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/mycotoxin/</loc>
-    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/paul.-d.-esker/</loc>
     <lastmod>2018-10-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/ruth-dill-macky/</loc>
     <lastmod>2018-10-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/wheat/</loc>
     <lastmod>2018-10-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/william-w.-kirk/</loc>
     <lastmod>2018-10-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/dennis-garzonio/</loc>
     <lastmod>2018-10-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/diane-e.-plewa/</loc>
-    <lastmod>2018-10-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/e.-s.-phillippi/</loc>
     <lastmod>2018-10-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/pd2019_tars_spot/</loc>
+  </url><url>
+    <loc>/publication/2019-pd-tars-spot-first-report/</loc>
     <lastmod>2018-10-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/pd2018_qoi_and_dmi_wheat/</loc>
+  </url><url>
+    <loc>/publication/2020-pd-tars-spot-feature/</loc>
     <lastmod>2018-10-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/nathan-m.-kleczewski/</loc>
+  </url><url>
+    <loc>/publication/2018-pd-qoi-and-dmi-wheat/</loc>
     <lastmod>2018-10-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/ryan-hesterman/</loc>
     <lastmod>2018-10-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/alyssa-a.-collins/</loc>
     <lastmod>2018-06-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/pd2018_wheat_atlant/</loc>
+  </url><url>
+    <loc>/publication/2018-pd-wheat-atlant/</loc>
     <lastmod>2018-06-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/hillary-l.-mehl/</loc>
     <lastmod>2018-06-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/phillip-n.-sylvester/</loc>
     <lastmod>2018-06-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/pierce-a.-paul/</loc>
-    <lastmod>2018-06-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/carlos-a.-forcelini/</loc>
     <lastmod>2018-01-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/carlos-m.-utiamada/</loc>
     <lastmod>2018-01-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/claudia-v.-godoy/</loc>
     <lastmod>2018-01-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/david-de-souza-jaccoud-filho/</loc>
     <lastmod>2018-01-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/dulandula-s.-miguel-wruck/</loc>
     <lastmod>2018-01-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/edson-p.-borges/</loc>
     <lastmod>2018-01-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/emerson-m.-del-ponte/</loc>
     <lastmod>2018-01-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/fabiano-v.-siqueri/</loc>
     <lastmod>2018-01-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/fernando-c.-juliatti/</loc>
     <lastmod>2018-01-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/hercules-d.-campos/</loc>
     <lastmod>2018-01-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/jose-nunesjr./</loc>
-    <lastmod>2018-01-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/luciana-c.-carneiro/</loc>
     <lastmod>2018-01-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/luis-henrique-c.-p.-da-silva/</loc>
     <lastmod>2018-01-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/marcelo-g.-canteri/</loc>
     <lastmod>2018-01-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/margarida-f.-ito/</loc>
     <lastmod>2018-01-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/master/</loc>
     <lastmod>2018-01-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/mauricio-c.-meyer/</loc>
     <lastmod>2018-01-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/pd2018_decline_of_fung/</loc>
+  </url><url>
+    <loc>/publication/2018-pd-sbr-decline-of-fung/</loc>
     <lastmod>2018-01-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/monica-c.-martins/</loc>
     <lastmod>2018-01-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/ricardo-s.-balardin/</loc>
     <lastmod>2018-01-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/silvania-h.-furlan/</loc>
     <lastmod>2018-01-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/soybean/</loc>
     <lastmod>2018-01-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/ufrgs/</loc>
     <lastmod>2018-01-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/valtemir-j.-carlin/</loc>
     <lastmod>2018-01-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/internal-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/getting-started/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/aline-de-h.-n.-maia/</loc>
     <lastmod>2015-02-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/phyto2015_sbr_sev_and_yield/</loc>
+  </url><url>
+    <loc>/publication/2015-phyto-sbr-sev-and-yield/</loc>
     <lastmod>2015-02-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/patricia-k.-ziegelmann/</loc>
     <lastmod>2015-02-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/aplication-tecnology/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/courses/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/daniel-debona/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/diego-dalla-favera/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/rbeaa2012_drop_deposition/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/publication/2012-rbeaa-drop-deposition/</loc>
+  </url><url>
     <loc>/authors/gerson-dalla-corte/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/authors/jose-nunesjr./</loc>
+  </url><url>
     <loc>/authors/juliano-d.-uebel/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/monica-p.-debortoli/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/nedio-rodrigo-tormen/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/ricardo-silveiro-balardin/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/seed-treatment/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/cr211_see_treatment/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/publication/2011-cr-see-treatment/</loc>
+  </url><url>
     <loc>/tags/ufsm/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/undergrad/</loc>
-    <priority>0</priority>
   </url>
-  
 </urlset>
