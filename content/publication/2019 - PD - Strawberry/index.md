@@ -9,7 +9,7 @@ authors:
 
 date: "2019-05-30"
 doi: "10.1094/PDIS-03-19-0453-RE"
-featured: true
+featured: false
 image:
   caption: 'Image credit: [Michelle S. Oliveira](http://edis.ifas.ufl.edu/LyraEDISServlet?command=getImageDetail&image_soid=FIGURE%204&document_soid=PP152&document_version=79797)'
   focal_point: ""

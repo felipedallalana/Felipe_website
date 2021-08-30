@@ -1,13 +1,13 @@
 ---
 authors:
 - admin
-bio: My research interests include plant disease epidemiology, clop lost assesment, integrate pest management, and meta-analysis.
+bio: My research interests include plant disease epidemiology, clop lost assessment, integrate pest management, and meta-analysis.
 education:
   courses:
-  - course: Ph.D. in Plant Pathologi
+  - course: Ph.D. in Plant Pathology
     institution: The Ohio State University
-    year: 2020 (in progress)
-  - course: Master in Plant Pathologi
+    year: 2020
+  - course: Master in Plant Pathology
     institution: The Ohio State University
     year: 2018
   - course: Master in Agronomy
@@ -58,4 +58,4 @@ I am a Ph.D. candidate at the Department of Plant Pathology of the Ohio State Un
 
 Before joining the Plant Pathology program of OSU, I earn my agronomy master degree under mentorship of professor Del Ponte, at the Federal University of Rio Grande do Sul, studying Soybean Rust. During my undergrad course, I also work on several plant pathology projects on field crops, under supervision of professor Balardin.
 
-My current *curriculum vitae* can be download [here](/files/CV_July19.pdf).
+My current *curriculum vitae* can be download [here](/files/FelipeDallaLana_CV_Ago_2021.pdf).

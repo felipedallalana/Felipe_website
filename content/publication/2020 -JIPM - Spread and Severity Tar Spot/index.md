@@ -22,7 +22,7 @@ authors:
 
 date: "2020-06-16"
 doi: "10.1093/jipm/pmaa012"
-featured: true
+featured: false
 image:
   caption: 'Image credit: Felipe Dalla Lana'
   focal_point: ""

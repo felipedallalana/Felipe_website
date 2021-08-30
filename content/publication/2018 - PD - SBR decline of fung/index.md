@@ -27,7 +27,7 @@ authors:
 
 date: "2018-01-30"
 doi: "10.1094/PDIS-03-17-0408-RE"
-featured: false
+featured: true
 image:
   caption: 'Image credit: [Christine Stone](https://www.ars.usda.gov/oc/images/photos/jun06/d521-1)'
   focal_point: 

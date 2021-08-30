@@ -31,6 +31,7 @@ tags:
 - Field crops
 - Mycotoxin
 - PhD
+- Corn
 
 title:  Stability of hybrid maize reaction to Gibberella ear rot and deoxynivalenol contamination of grain
 url_code: ""

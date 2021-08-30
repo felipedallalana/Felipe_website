@@ -12,7 +12,7 @@ authors:
 
 date: "2018-10-08"
 doi: "10.1094/PDIS-01-19-0070-PDN"
-featured: true
+featured: false
 image:
   caption: 'Image credit: Felipe Dalla Lana'
   focal_point: ""
@@ -26,12 +26,11 @@ publishDate: "2019-05-14"
 slides: 
 summary: ""
 tags:
-- Wheat
-- Meta-analysis
+- Tar Spot
+- Corn
+- Disease models
 - OSU
 - Field crops
-- Mycotoxin
-- DON
 
 
 title: First Report of Tar Spot of Maize (Zea mays), Caused by Phyllachora maydis, in Ohio.

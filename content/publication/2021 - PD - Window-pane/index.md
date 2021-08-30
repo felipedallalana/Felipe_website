@@ -29,6 +29,7 @@ tags:
 - Field crops
 - Mycotoxin
 - PhD
+- Corn
 
 title:  Natural occurrence of maize Gibberella ear rot and contamination of grain with mycotoxins in association with weather variables
 url_code: ""

@@ -29,6 +29,7 @@ tags:
 - Field crops
 - Mycotoxin
 - PhD
+- Corn
 
 title:  Logistic models derived using LASSO methods for quantifying the risk of natural contamination of maize grain with deoxynivalenol
 url_code: ""
