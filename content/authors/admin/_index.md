@@ -7,10 +7,10 @@ education:
   - course: Ph.D. in Plant Pathology
     institution: The Ohio State University
     year: 2020
-  - course: Master in Crop Sciences/Phytopathology
+  - course: Master in Plant Pathology
     institution: The Ohio State University
     year: 2018
-  - course: Master in Agronomy
+  - course: Master in Crop Sciences/Phytopathology
     institution: Federal University of Rio Grande do Sul - Brazil
     year: 2013
   - course: B.S. in Agronomy
